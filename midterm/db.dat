@@ -1,0 +1,10 @@
+#define MAX 24
+#define year 2023
+
+struct product {
+	int id;
+	char name[MAX];
+	char category[MAX];
+	int date;
+	int stock;
+}

@@ -49,7 +49,7 @@ void Read(const char *filename) {
             i++;
         }
     }
-    close(fd);
+	close(fd);
 }
 
 void printLines(const char *input) {
