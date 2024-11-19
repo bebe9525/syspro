@@ -1,0 +1,3 @@
+ls -al
+wc test.txt & aaa
+437980fdsafdsa
